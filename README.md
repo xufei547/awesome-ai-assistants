@@ -62,6 +62,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 | [Jasper](https://jasper.ai) | Marketing | AI content creation |
 | [Notion AI](https://notion.so/product/ai) | Productivity | AI writing assistant |
 | [Otter.ai](https://otter.ai) | Meetings | AI meeting transcription |
+| [Mantra](https://mantra.gonewx.com) | Developer Productivity | AI coding session management - save, restore, and time-travel through Claude Code, Cursor, and Windsurf sessions |
 
 ---
 
