@@ -64,6 +64,8 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 | [Otter.ai](https://otter.ai) | Meetings | AI meeting transcription |
 
 ---
+| [toprank](https://github.com/nowork-studio/toprank) | SEO & Ads | Open-source Claude Code plugin for SEO and Google Ads skills |
+
 
 ## Development Frameworks
 
