@@ -62,6 +62,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 | [Jasper](https://jasper.ai) | Marketing | AI content creation |
 | [Notion AI](https://notion.so/product/ai) | Productivity | AI writing assistant |
 | [Otter.ai](https://otter.ai) | Meetings | AI meeting transcription |
+| [AnveVoice](https://anvevoice.app) | Website Voice AI | Voice AI agent for websites with agentic DOM actions, MCP support, 50+ languages, <700ms latency. Free tier. |
 
 ---
 
