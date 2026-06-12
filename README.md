@@ -62,6 +62,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 | [Jasper](https://jasper.ai) | Marketing | AI content creation |
 | [Notion AI](https://notion.so/product/ai) | Productivity | AI writing assistant |
 | [Otter.ai](https://otter.ai) | Meetings | AI meeting transcription |
+| [Remio](https://remio.ai/) | Productivity / Knowledge | Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, and images into local indexes and vectors for fast personal context retrieval by users and agents. |
 
 ---
 
