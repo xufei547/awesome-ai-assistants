@@ -25,6 +25,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 
 | Name | Description | Platforms | Stars |
 |------|-------------|-----------|-------|
+| [NotFair](https://github.com/nowork-studio/NotFair) | Open-source Claude Code agent skills for SEO, GEO, Google Ads, and Meta Ads — connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP | CLI (Claude Code) | 2.9k+ |
 | [OpenClaw](https://www.clawdbot-install.com) | AI assistant that actually executes tasks - send emails, manage calendar, control smart home. Free setup service available. | WhatsApp, Telegram, Discord, Slack | - |
 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | Autonomous AI agent that chains together LLM thoughts to accomplish goals | CLI, Web | 160k+ |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | Assemble, configure, and deploy autonomous AI agents in your browser | Web | 30k+ |
