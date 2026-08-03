@@ -26,6 +26,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 | Name | Description | Platforms | Stars |
 |------|-------------|-----------|-------|
 | [OpenClaw](https://www.clawdbot-install.com) | AI assistant that actually executes tasks - send emails, manage calendar, control smart home. Free setup service available. | WhatsApp, Telegram, Discord, Slack | - |
+| [Orkas](https://github.com/Orkas-AI/Orkas) | Open-source, local-first desktop workspace where a Commander coordinates specialized AI agents through one conversation | Windows, macOS, Linux | 960+ |
 | [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | Autonomous AI agent that chains together LLM thoughts to accomplish goals | CLI, Web | 160k+ |
 | [AgentGPT](https://github.com/reworkd/AgentGPT) | Assemble, configure, and deploy autonomous AI agents in your browser | Web | 30k+ |
 | [BabyAGI](https://github.com/yoheinakajima/babyagi) | Task-driven autonomous agent using OpenAI and vector databases | CLI | 19k+ |
