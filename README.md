@@ -58,6 +58,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 
 | Name | Focus Area | Description |
 |------|------------|-------------|
+| [Agent QA](https://vostride.com/docs/agent-qa) | Application testing | Natural-language web and mobile QA; FSL source-available, no software fee for permitted use; provider costs separate |
 | [GitHub Copilot](https://github.com/features/copilot) | Coding | AI pair programmer |
 | [Jasper](https://jasper.ai) | Marketing | AI content creation |
 | [Notion AI](https://notion.so/product/ai) | Productivity | AI writing assistant |
