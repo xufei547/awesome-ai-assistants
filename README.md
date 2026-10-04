@@ -39,6 +39,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 | [LocalAI](https://github.com/mudler/LocalAI) | Self-hosted, local-first AI assistant | MIT |
 | [Jan](https://github.com/janhq/jan) | Open-source ChatGPT alternative that runs offline | AGPL-3.0 |
 | [Ollama](https://github.com/ollama/ollama) | Run large language models locally | MIT |
+| [AI Group Call](https://aigroupcall.app) | Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call. | iOS + Android app |
 
 ---
 
