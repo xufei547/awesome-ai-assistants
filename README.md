@@ -52,7 +52,8 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 | [Claude](https://claude.ai) | Anthropic's helpful, harmless AI assistant | Free / $20/mo |
 | [Gemini](https://gemini.google.com) | Google's multimodal AI assistant | Free / $20/mo |
 | [Copilot](https://copilot.microsoft.com) | Microsoft's AI companion powered by GPT-4 | Free / Paid |
-| [Novastart](https://novastart.com/) | Infinite-canvas desktop workspace with up to 10 computer-use AI agents and shared team canvases | Free / Pro $10/mo / Team $20/user/mo | | [Perplexity](https://perplexity.ai) | AI-powered search and answer engine | Free / $20/mo |
+| [Novastart](https://novastart.com/) | Infinite-canvas desktop workspace with up to 10 computer-use AI agents and shared team canvases | Free / Pro $10/mo / Team $20/user/mo | 
+| [Perplexity](https://perplexity.ai) | AI-powered search and answer engine | Free / $20/mo |
 
 ### Specialized Assistants
 
