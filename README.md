@@ -114,6 +114,7 @@ A curated list of AI personal assistants, autonomous agents, and related tools.
 - 🚀 [Free AI Assistant Setup Guide](https://www.clawdbot-install.com) - Get your personal AI assistant running in minutes
 - 📚 [LangChain Documentation](https://python.langchain.com/docs/get_started/introduction)
 - 🎓 [Building LLM Apps - DeepLearning.AI](https://www.deeplearning.ai/short-courses/)
+- [Zortex installation guide](https://zortex.me/en/install) - Set up app access and local search for an AI assistant.
 
 ### Tutorials (English)
 
